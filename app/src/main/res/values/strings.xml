@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">MaterialDesign</string>
+    <string name="title">Card Title</string>
+    <string name="secondary_text">This is second text</string>
+    <string name="supporting_text">
+        this is supporting text to show this card
+        this is supporting text to show this card
+        this is supporting text to show this card
+        this is supporting text to show this card
+        this is supporting text to show this card
+        this is supporting text to show this card
+        this is supporting text to show this card
+    </string>
 </resources>
